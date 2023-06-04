@@ -1,0 +1,12 @@
+*venv
+
+db.sqlite3
+sqlite3.db
+__pycache__/
+*/__pycache__/
+.pyc
+*.pyc
+
+!*media/.gitkeep
+media/*
+log/debug.log
